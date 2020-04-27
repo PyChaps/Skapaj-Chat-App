@@ -1,2 +1,2 @@
 # Skapaj-Chat-App
-Simple command line chat app.
+Simple terminal chat app.
